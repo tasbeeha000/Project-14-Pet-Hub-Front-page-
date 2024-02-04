@@ -23,14 +23,12 @@
 ![fuzzy search](https://github.com/tasbeeha000/Project-14-Pet-Hub-Front-page-/assets/137652796/7e372bc3-2037-44fa-896e-5946d27a5186)
 <br>
 ![spell ignorant](https://github.com/tasbeeha000/Project-14-Pet-Hub-Front-page-/assets/137652796/01a0f56c-8256-403f-b391-102d21519b6a)
-
 <br>
 ![responsive nav](https://github.com/tasbeeha000/Project-14-Pet-Hub-Front-page-/assets/137652796/492ec6d4-1e39-46cd-9bf5-4108ff5d7433)
 
-
 <br>
-
 <h3>How its works? - Video</h3>
+<br>
 https://github.com/tasbeeha000/Project-14-Pet-Hub-Front-page-/assets/137652796/1d250755-67e3-4a1b-8787-539edd3a32a7
 
 
